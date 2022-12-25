@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.instagram.com/ronnih_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href=" www.linkedin.com/in/roniandriani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/roniandriani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
 ##
