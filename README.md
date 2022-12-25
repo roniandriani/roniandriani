@@ -8,7 +8,7 @@
 ##
 
 <ul>
-  <li>💻 Dev Back-end desde 2022</li>
+  <li>💻 Dev Back-End desde 2022</li>
   <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na Uninter</li>
  
   </div>
