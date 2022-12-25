@@ -18,8 +18,9 @@
   <img align="center" alt="Roni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
- ##
+  <img align="right" alt="Roni-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962467369387704320/1056651492993536042/download20221200145150.png?width=400&height=400">
+ 
+  ##
 
 <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roniandriani&show_icons=true&theme=radical&count_private=true"/> -->
