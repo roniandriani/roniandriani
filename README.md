@@ -10,7 +10,14 @@
 <ul>
   <li>💻 Dev Back-end desde 2022</li>
   <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na Uninter</li>
-
+ 
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Roni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Roni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Roni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
  ##
 
@@ -21,3 +28,6 @@
 
   
   ##
+
+
+                  
