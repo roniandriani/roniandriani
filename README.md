@@ -9,7 +9,7 @@
 
 <ul>
   <li>💻 Dev Back-end desde 2022</li>
-  <li>🎓 Cursando Analise e Desenvolvimento de Sistemas na Uninter</li>
+  <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na Uninter</li>
 
 
  ##
